@@ -1,0 +1,14 @@
+{
+  "name": "scanqr",
+  "version": "1.0.0",
+  "description": "Scanner Qr Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Castellanos",
+  "license": "ISC",
+  "dependencies": {
+    "instascan": "^1.0.0"
+  }
+}
