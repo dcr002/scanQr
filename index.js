@@ -1,7 +1,10 @@
+Instascan = require('instascan');
 module.exports = {
-    Instascan = require('instascan'),
     instance = function(){
-        
+        console.dir("instance")
+    },
+    config = function(){
+        console.dir("config")
     },
 }
 
